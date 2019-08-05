@@ -1,14 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b0fedc5-503f-417f-bcab-af463dfd1340" name="Default Changelist" comment="" />
+    <list default="true" id="0b0fedc5-503f-417f-bcab-af463dfd1340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Newp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Newp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/Newp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/Newp/Newp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/Newp/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/about/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/Newp/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/Newp/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/activate.xsh" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/activate.xsh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/easy_install-3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/pip3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/python-config" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/python-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/bin/wheel" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/bin/wheel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/lib/python3.6/site-packages/pip-19.2.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/lib/python3.6/site-packages/pip-19.2.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/lib/python3.6/site-packages/setuptools-41.0.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/lib/python3.6/site-packages/setuptools-41.0.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newp/lib/python3.6/site-packages/wheel-0.33.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Newp/lib/python3.6/site-packages/wheel-0.33.4.dist-info/RECORD" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Oq4m6tSGOpruVHiunF9GLFAsDQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Hasslab/tester.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -20,6 +64,55 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.tester">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Newp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Hasslab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Hasslab/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Newp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Hasslab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Hasslab/tester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tester" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,5 +126,18 @@
       <updated>1564691948848</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
