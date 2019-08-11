@@ -3,25 +3,18 @@
   <head>
     <title>LOGIN</title>
     <h1 align="center">LOG IN</h1>
-    <script src="js/gpascript.js"></script>
-    <style type="text/css">
-  body {
-    color: black;
-    background-color: lightblue;
-     }
-  .rtn {
-  background-color: none;
-}
-  </style>
-  <body>
-        <p align="center">NAME :
-         <input type="text" id="textbox0"></p>
+      </head>
 
-        <p align="center">EMAIL :
-         <input type="text" id="textbox1"></p>
-         <p align="center">PASSWORD :
-         <input type="text" id="textbox2" align="middle"></p>
- 	<p align="center"> <button id="btn" onclick="gpa_input()">SUBMIT</button> </p>
+
+  <body>
+
+  <form method ="POST">
+      <!-- {% csrf_token %}-->
+       <!-- {{signup}}-->
+      {{signup}}
+      <input type="submit" value="submit">
+  </form>
+
   </body>
-  </head>
+
 </html>
