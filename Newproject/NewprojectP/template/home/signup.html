@@ -1,17 +1,18 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>LOGIN</title>
-    <h1 align="center">LOG IN</h1>
+    <title>Signup</title>
+    <h1 align="center">SIGNUP</h1>
       </head>
 
 
   <body>
 
   <form method ="POST">
-      <!-- {% csrf_token %}-->
+       {% csrf_token %}
        <!-- {{signup}}-->
       {{signup}}
+      <br>
       <input type="submit" value="submit">
   </form>
 
