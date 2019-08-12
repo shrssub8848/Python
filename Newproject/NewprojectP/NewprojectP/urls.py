@@ -21,6 +21,7 @@ from login import views as v3
 from signup import views as v4
 from gallary import views as v5
 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', v1.home, name='Home'),
@@ -28,4 +29,5 @@ urlpatterns = [
     path('login/', v3.login, name='Login'),
     path('signup/', v4.signup, name='Signup'),
     path('gallary/', v5.gallary, name='Gallary'),
+    path('json/', v1.random, name='jhome'),
 ]

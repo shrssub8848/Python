@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'login',
     'signup',
     'gallary',
+    'rest_framework',
 
 
 ]
