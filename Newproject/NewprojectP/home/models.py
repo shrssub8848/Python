@@ -6,6 +6,10 @@ class Introduction(models.Model):
 	age = models.IntegerField()
 	number = models.IntegerField()
 
+	class Meta(object):
+		verbose_name_plural = 'Information'
+
+
 
 class Python(models.Model):
 	Session = models.CharField(max_length=20,unique=True)
