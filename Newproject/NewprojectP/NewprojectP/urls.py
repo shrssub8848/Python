@@ -27,7 +27,8 @@ urlpatterns = [
     path('home/', v1.home, name='Home'),
     path('about/', v2.about, name='About'),
     path('login/', v3.login, name='Login'),
-    path('signup/', v4.signup, name='Signup'),
+    path('signup_form/', v1.signup_form, name='Signup'),
     path('gallary/', v5.gallary, name='Gallary'),
     path('json/', v1.random, name='jhome'),
+    path('api/', v1.SignupList.as_view()),
 ]

@@ -14,14 +14,22 @@ def home(request):
     return render(request, 'home/index.html', context=dict)
 
 
-def signup(request):
+def signup_form(request):
     form = forms.FormName(request.POST)
     if request.method == "POST":
         form = forms.FormName(request.POST)
         if form.is_valid():
             form.save()
-    return render(request, 'home/signup.html', {'signup:form'})
+    return render(request, 'home/signup.html', {'signup':form})
 
 def random(request):
     data = {1:{'name':'john','age':21},2:{'name':'jacky','age':28},3:{'name':'Hitoshi','age':31}}
     return JsonResponse(data)
+
+
+
+class SignupList(APIView):
+    def get(self,request):
+        values = signup.objects.all()
+        serializer = SignupSerializer(values, many=True)
+        return Response(serializer.data)
